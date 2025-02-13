@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "I saw the way you look at me  ",
+    "I never liked dance until I saw you dancing",
+    "justniv...i saw you blushing",
+    "niveditha liked your story",
+    "niveditha liked your post",
+    "Genz got the name 'pookie' after they saw you ig",
+    "Got a cring alert while typing the previous one but it's ok😊",
+    "Atleast I got some use of what Koppala taught last sem 😁",
+    "if you reject don't say this to anyone...",
+    "Just kidding, say yes please! ❤️"//
 ];
 
 let messageIndex = 0;

@@ -26,20 +26,20 @@ body {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #4caf50;
+    background-color: #0830e0;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
   }
   
   .no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #f44336;
+    background-color:#eb070e ;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
   }
   

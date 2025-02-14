@@ -26,22 +26,33 @@ body {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #0830e0;
+    background-color: #ee0a87;
     color: white;
     border: none;
     border-radius: 10px;
     cursor: pointer;
-  }
-  
-  .no-button {
+    transition: box-shadow 0.3s ease;
+}
+
+.yes-button:hover {
+    box-shadow: 0 0 25px 10px pink; /* Increased blur and spread */
+}
+
+.no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color:#eb070e ;
+    background-color: #2207eb;
     color: white;
     border: none;
     border-radius: 10px;
     cursor: pointer;
-  }
+    transition: box-shadow 0.3s ease;
+}
+
+.no-button:hover {
+    box-shadow: 0 0 15px black;
+}
+
   
   .gif_container img {
     max-width: 100%;
